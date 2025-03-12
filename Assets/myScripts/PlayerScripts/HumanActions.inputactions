@@ -1,0 +1,34 @@
+{
+    "name": "HumanActions",
+    "maps": [
+        {
+            "name": "HumMain",
+            "id": "3b2bfab1-fb36-4371-95dc-8c0ad1e49022",
+            "actions": [
+                {
+                    "name": "HumMove",
+                    "type": "Button",
+                    "id": "e3ab2312-1507-4e5c-bc2c-e824f5601e42",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "76eaa42b-9ac0-4c46-b45a-e345f906185d",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "HumMove",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
